@@ -50,6 +50,7 @@
 修改config.py，其中source_urls = 下的网址是扫源的订阅地址，如：
 
 source_urls = [
+
     "https://m3u.hackserver.net/txt/fmml_ipv6.txt",
     
     "https://m3u.hackserver.net/txt/fmml_dv6.txt",
