@@ -60,3 +60,9 @@ source_urls = [
     "https://m3u.hackserver.net/txt/y_g.txt",
     
     "https://m3u.hackserver.net/txt/j_iptv.txt",
+
+
+
+
+    关于如何在GitHub上自动运行：
+    请参考开启 Actions 工作流：  https://github.com/Guovin/TV/blob/master/docs/tutorial.md
