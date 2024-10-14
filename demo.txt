@@ -88,6 +88,7 @@ CCTV-怀旧剧场,
 CCTV-文化精品,
 CCTV-女性时尚,
 CCTV-电视指南,
+CCTV高尔夫网球
 CGTN英语,
 CGTN记录,
 CGTN俄语,
