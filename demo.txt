@@ -54,6 +54,8 @@ iHOT爱赛车,
 央视高网,
 央视台球,
 风云足球,
+CCTV高尔夫网球,
+高尔夫,
 
 央视,#genre#
 CCTV1,
@@ -88,7 +90,6 @@ CCTV-怀旧剧场,
 CCTV-文化精品,
 CCTV-女性时尚,
 CCTV-电视指南,
-CCTV高尔夫网球
 CGTN英语,
 CGTN记录,
 CGTN俄语,
