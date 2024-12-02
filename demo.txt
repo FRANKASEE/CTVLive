@@ -319,6 +319,10 @@ YTN Korean,
 YTN Science,
 YTN,
 Yonhap News,
+SBS,
+TVN,
+JTBC,
+jtbc,
 
 日本,#genre#
 BS-TBS,
