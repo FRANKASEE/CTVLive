@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-# 更新时间: 2024-12-02 21:46:54
+# 更新时间: 2024-12-03 05:39:06
 
 #EXTINF:-1 tvg-id="1" tvg-name="TVBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS.png" group-title="台湾",TVBS
 http://125.227.210.55:8188/VideoInput/play.ts$IPV4『线路1』
@@ -859,6 +859,8 @@ http://fm1077.serv00.net/Smart.php?id=ytnscience_korea$IPV4
 http://fm1077.serv00.net/Smart.php?id=ytn_korea$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Yonhap News" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Yonhap News.png" group-title="韩国",Yonhap News
 http://fm1077.serv00.net/Smart.php?id=yonhapnews_korea$IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="SBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/SBS.png" group-title="韩国",SBS
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BS-TBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/BS-TBS.png" group-title="日本",BS-TBS
 http://fm1077.serv00.net/Smart.php?id=bstbs_japan$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BSジャパン 181" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/BSジャパン 181.png" group-title="日本",BSジャパン 181

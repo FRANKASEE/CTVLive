@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-02 21:46:54
+更新时间: 2024-12-03 05:39:06
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts$IPV4『线路1』
@@ -435,6 +435,7 @@ YTN Korean,http://fm1077.serv00.net/Smart.php?id=ytnkorean_korea$IPV4
 YTN Science,http://fm1077.serv00.net/Smart.php?id=ytnscience_korea$IPV4
 YTN,http://fm1077.serv00.net/Smart.php?id=ytn_korea$IPV4
 Yonhap News,http://fm1077.serv00.net/Smart.php?id=yonhapnews_korea$IPV4
+SBS,https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8$IPV4
 日本,#genre#
 BS-TBS,http://fm1077.serv00.net/Smart.php?id=bstbs_japan$IPV4
 BSジャパン 181,http://fm1077.serv00.net/Smart.php?id=bs181_japan$IPV4
