@@ -138,17 +138,6 @@ def updateChannelUrlsM3U(channels, template_channels):
                             ipv6_streams = [url for url in filtered_urls if is_ipv6(url)][:60]
                             ipv4_streams = [url for url in filtered_urls if not is_ipv6(url)][:60]
 
-                            # 将IPv6放在前面，IPv4放在后面
-                            combined_streams = ipv6_streams + ipv4_streams
-
-                            total_urls = len(combined_streams)
-                            for index, url in enumerate(combined_streams, start=1):
-                                if is_ipv6(url):
-                                    url_suffix = f"$IPV6" if total_urls == 1 else f"$IPV6『线路{index}』"
-                                else:
-                                    url_suffix = f"$IPV4" if total_urls == 1 else f"$IPV4『线路{index}』"
-                                base_url = url.split('$', 1)[0] if '$' in url else url
-                                new_url = f"{base_url}{url_suffix}"
 
                                 f_m3u.write(f"#EXTINF:-1 tvg-id=\"{index}\" tvg-name=\"{channel_name}\" tvg-logo=\"https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/{channel_name}.png\" group-title=\"{category}\",{channel_name}\n")
                                 f_m3u.write(new_url + "\n")
