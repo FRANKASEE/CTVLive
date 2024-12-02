@@ -95,11 +95,14 @@ def filter_source_urls(template_file):
     template_channels = parse_template(template_file)
     source_urls = config.source_urls
 
-    all_channels = defaultdict(list)
+    all_channels = OrderedDict()
     for url in source_urls:
         fetched_channels = fetch_channels(url)
         for category, channel_list in fetched_channels.items():
-            all_channels[category].extend(channel_list)
+            if category in all_channels:
+                all_channels[category].extend(channel_list)
+            else:
+                all_channels[category] = channel_list
 
     matched_channels = match_channels(template_channels, all_channels)
 
@@ -134,9 +137,9 @@ def updateChannelUrlsM3U(channels, template_channels):
                             filtered_urls = [url for url in sorted_urls if url and url not in written_urls and not any(blacklist in url for blacklist in config.url_blacklist)]
                             written_urls.update(filtered_urls)
 
-                            # 提取前60个IPv6和前60个IPv4的直播源
-                            ipv6_streams = [url for url in filtered_urls if is_ipv6(url)][:60]
-                            ipv4_streams = [url for url in filtered_urls if not is_ipv6(url)][:60]
+                            # 提取前20个IPv6和前20个IPv4的直播源
+                            ipv6_streams = [url for url in filtered_urls if is_ipv6(url)][:20]
+                            ipv4_streams = [url for url in filtered_urls if not is_ipv6(url)][:20]
 
                             # 将IPv6放在前面，IPv4放在后面
                             combined_streams = ipv6_streams + ipv4_streams
