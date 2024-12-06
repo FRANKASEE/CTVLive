@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-06 17:40:57
+更新时间: 2024-12-07 05:38:46
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts$IPV4『线路1』
@@ -159,7 +159,6 @@ BBC World News,http://fm1077.serv00.net/Smart.php?id=bbcnews_twn$IPV4『线路3�
 BBC World News,http://fm1077.serv00.net/Smart.php?id=Bbcnews$IPV4『线路4』
 BBC World News,http://fm1077.serv00.net/Smart.php?id=bbcnews_twn$IPV4『线路5』
 BBC World News,http://fm1077.serv00.net/Smart.php?id=bbcworldnews_antik$IPV4『线路6』
-BBC World News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8$IPV4『线路7』
 Bloomberg News,http://fm1077.serv00.net/Smart.php?id=bloomberg_twn$IPV4『线路1』
 Bloomberg News,http://fm1077.serv00.net/Smart.php?id=bloomberg_twn$IPV4『线路2』
 Bloomberg News,http://fm1077.serv00.net/Smart.php?id=bloomberg_twn$IPV4『线路3』
@@ -183,7 +182,6 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$IPV4『线路10』
 CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012$IPV4『线路11』
 AXN,http://fm1077.serv00.net/Smart.php?id=axn_twn$IPV4『线路1』
 AXN,http://fm1077.serv00.net/Smart.php?id=axn_twn$IPV4『线路2』
-AXN,https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd$IPV4『线路3』
 CINEMAX,http://fm1077.serv00.net/Smart.php?id=cinemax_twn$IPV4『线路1』
 CINEMAX,http://fm1077.serv00.net/Smart.php?id=cinemax_twn$IPV4『线路2』
 EYE戲劇,http://fm1077.serv00.net/Smart.php?id=eyetvxiju_twn$IPV4
@@ -191,10 +189,8 @@ EYE旅遊,http://fm1077.serv00.net/Smart.php?id=eyetvtravel_twn$IPV4
 HBO,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8503/.m3u8$IPV4『线路1』
 HBO,http://fm1077.serv00.net/Smart.php?id=hbohd_twn$IPV4『线路2』
 HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd$IPV4『线路3』
-HBO,https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd$IPV4『线路4』
 HBO Family,http://fm1077.serv00.net/Smart.php?id=fyi_twn$IPV4『线路1』
 HBO Family,http://fm1077.serv00.net/Smart.php?id=Hbofamily$IPV4『线路2』
-HBO Family,https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd$IPV4『线路3』
 好萊塢電影台,http://fm1077.serv00.net/Smart.php?id=hollywoodmovies_twn$IPV4
 MTV Live,http://fm1077.serv00.net/Smart.php?id=mtvhd_twn$IPV4『线路1』
 MTV Live,http://fm1077.serv00.net/Smart.php?id=mtvhd_twn$IPV4『线路2』
@@ -202,23 +198,19 @@ MTV Live,http://fm1077.serv00.net/Smart.php?id=mtvhd_twn$IPV4『线路3』
 影迷數位電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011$IPV4
 CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8$IPV4『线路1』
 CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8$IPV4『线路2』
-Rock Action,https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd$IPV4
 Rock Entertainment,http://fm1077.serv00.net/Smart.php?id=Rockentertain$IPV4『线路1』
 Rock Entertainment,http://fm1077.serv00.net/Smart.php?id=Rockentertain$IPV4『线路2』
 Rock Entertainment,http://fm1077.serv00.net/Smart.php?id=Rockentertain$IPV4『线路3』
-Rock Entertainment,https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd$IPV4『线路4』
 Nickelodeon,http://37.27.111.214:8080/live/12/hls.m3u8$IPV4『线路1』
 Nickelodeon,http://37.27.111.214:8080/live/12/hls.m3u8$IPV4『线路2』
 Nickelodeon,http://fm1077.serv00.net/Smart.php?id=Nickelodeon$IPV4『线路3』
 Nickelodeon,http://fm1077.serv00.net/Smart.php?id=Nickelodeon$IPV4『线路4』
 Nickelodeon,http://fm1077.serv00.net/Smart.php?id=Nickelodeon$IPV4『线路5』
-Nickelodeon,https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_nickelodeon.mpd$IPV4『线路6』
 第1商業台,https://litv.zapi.us.kg/?id=4gtv-4gtv109$IPV4
 視納華仁紀實頻道,http://litv.zapi.us.kg/?id=4gtv-4gtv013$IPV4『线路1』
 視納華仁紀實頻道,https://litv.zapi.us.kg/?id=4gtv-4gtv013$IPV4『线路2』
 新加坡,#genre#
-Channel 5,http://fm1077.serv00.net/Smart.php?id=Channel5HD$IPV4『线路1』
-Channel 5,https://xyzdddd.mizhls.ru/lb/premium355/index.m3u8$IPV4『线路2』
+Channel 5,http://fm1077.serv00.net/Smart.php?id=Channel5HD$IPV4
 Channel 5(備用),http://fm1077.serv00.net/Smart.php?id=Ch5_mega$IPV4
 Channel 8,http://fm1077.serv00.net/Smart.php?id=Channel8HD$IPV4
 Channel 8(備用),http://fm1077.serv00.net/Smart.php?id=Ch8_mega$IPV4
@@ -228,13 +220,11 @@ Channel U,http://fm1077.serv00.net/Smart.php?id=ChannelU$IPV4
 Channel U(備用),http://fm1077.serv00.net/Smart.php?id=ChU_mega$IPV4
 CNA,p3p://108.181.32.169:42218/6426077a00093ea7ede6b8b64d6d4c6e$IPV4『线路1』
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路2』
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路3』
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$IPV4『线路4』
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$IPV4『线路3』
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路4』
 CNA,http://fm1077.serv00.net/Smart.php?id=cna$IPV4『线路5』
 CNA,http://fm1077.serv00.net/Smart.php?id=cna$IPV4『线路6』
 CNA,http://fm1077.serv00.net/Smart.php?id=cna$IPV4『线路7』
-CNA,https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd$IPV4『线路8』
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8$IPV4『线路9』
 CNA(備用),http://fm1077.serv00.net/Smart.php?id=cna_twn$IPV4
 香港,#genre#
 J2(備用),http://fm1077.serv00.net/Smart.php?id=j2_hkdavid$IPV4
@@ -301,12 +291,10 @@ BBC 1,http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/2950.ts$IPV
 BBC 1,http://newlife3.wanicelife.com:8880/live/29ca11113n01/adsfer3223/2950.ts$IPV4『线路4』
 BBC 1,http://supersonictv.live:8080/live/Derrick/Hitman50$IPV4『线路5』
 BBC 1,http://fm1077.serv00.net/Smart.php?id=bbc1_antik$IPV4『线路6』
-BBC 1,http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133454$IPV4『线路7』
 BBC 2,http://newlife3.wanicelife.com:8880/live/3ca7183n06/asdf23e32/2949.ts$IPV4『线路1』
 BBC 2,http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/2949.ts$IPV4『线路2』
 BBC 2,http://newlife3.wanicelife.com:8880/live/29ca11113n01/adsfer3223/2949.ts$IPV4『线路3』
 BBC 2,http://fm1077.serv00.net/Smart.php?id=bbc2_antik$IPV4『线路4』
-BBC 2,http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133465$IPV4『线路5』
 BBC Earth HD,http://fm1077.serv00.net/Smart.php?id=bbcearth_twn$IPV4『线路1』
 BBC Earth HD,http://fm1077.serv00.net/Smart.php?id=bbcearth_twn$IPV4『线路2』
 BBC Earth Lifestyle,http://fm1077.serv00.net/Smart.php?id=bbclifestyle_twn$IPV4『线路1』
@@ -339,15 +327,13 @@ CGTN,http://115.230.188.101:9999/rtp/233.50.201.126:5140$IPV4『线路20』
 CNBC,http://fm1077.serv00.net/Smart.php?id=cnbc_twn$IPV4『线路1』
 CNBC,http://fm1077.serv00.net/Smart.php?id=cnbc_twn$IPV4『线路2』
 CNBC,http://fm1077.serv00.net/Smart.php?id=cnbc_twn$IPV4『线路3』
-Channel 4,http://fm1077.serv00.net/Smart.php?id=channel4_antik$IPV4『线路1』
-Channel 4,https://xyzdddd.mizhls.ru/lb/premium354/index.m3u8$IPV4『线路2』
+Channel 4,http://fm1077.serv00.net/Smart.php?id=channel4_antik$IPV4
 DW (Deutsch),http://fm1077.serv00.net/Smart.php?id=dw_twn$IPV4『线路1』
 DW (Deutsch),http://fm1077.serv00.net/Smart.php?id=dw_twn$IPV4『线路2』
 Euronews,P2p://generationnexxxt.com:19806/43dedaf8037e43ceb06f46baa4391692$IPV4『线路1』
 Euronews,http://fm1077.serv00.net/Smart.php?id=euronews_antik$IPV4『线路2』
 France 24,http://fm1077.serv00.net/Smart.php?id=france24_twn$IPV4『线路1』
 France 24,http://fm1077.serv00.net/Smart.php?id=france24_twn$IPV4『线路2』
-France 24,https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_france24.mpd$IPV4『线路3』
 Freesports,http://fm1077.serv00.net/Smart.php?id=freesports_antik$IPV4
 HBO HD,http://fm1077.serv00.net/Smart.php?id=Hbo$IPV4『线路1』
 HBO HD,http://fm1077.serv00.net/Smart.php?id=Hbo$IPV4『线路2』
@@ -360,10 +346,8 @@ HGTV,https://stream1.freetv.fun/c5ef02cad24d7f55a0583051c1c0a10f0c58ecce812d8993
 HGTV,http://fm1077.serv00.net/Smart.php?id=HGTV$IPV4『线路6』
 HGTV,http://fm1077.serv00.net/Smart.php?id=HGTV$IPV4『线路7』
 HGTV,http://fm1077.serv00.net/Smart.php?id=HGTV$IPV4『线路8』
-HGTV,https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd$IPV4『线路9』
 History,http://fm1077.serv00.net/Smart.php?id=History$IPV4『线路1』
 History,http://fm1077.serv00.net/Smart.php?id=History$IPV4『线路2』
-History,https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd$IPV4『线路3』
 Hits Movie,http://fm1077.serv00.net/Smart.php?id=Hitsmovie$IPV4『线路1』
 Hits Movie,http://fm1077.serv00.net/Smart.php?id=Hitsmovie$IPV4『线路2』
 Hits Movie,http://fm1077.serv00.net/Smart.php?id=Hitsmovie$IPV4『线路3』
@@ -415,7 +399,6 @@ Thrill,http://fm1077.serv00.net/Smart.php?id=Thrill$IPV4『线路4』
 Warner TV,http://fm1077.serv00.net/Smart.php?id=WarnerTV$IPV4『线路1』
 Warner TV,http://fm1077.serv00.net/Smart.php?id=WarnerTV$IPV4『线路2』
 Warner TV,http://fm1077.serv00.net/Smart.php?id=WarnerTV$IPV4『线路3』
-Warner TV,https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_warnerhd.mpd$IPV4『线路4』
 itv 1,http://fm1077.serv00.net/Smart.php?id=itv1_antik$IPV4
 itv 2,http://fm1077.serv00.net/Smart.php?id=itv2_antik$IPV4
 韩国,#genre#
@@ -436,7 +419,6 @@ YTN Korean,http://fm1077.serv00.net/Smart.php?id=ytnkorean_korea$IPV4
 YTN Science,http://fm1077.serv00.net/Smart.php?id=ytnscience_korea$IPV4
 YTN,http://fm1077.serv00.net/Smart.php?id=ytn_korea$IPV4
 Yonhap News,http://fm1077.serv00.net/Smart.php?id=yonhapnews_korea$IPV4
-SBS,https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8$IPV4
 日本,#genre#
 BS-TBS,http://fm1077.serv00.net/Smart.php?id=bstbs_japan$IPV4
 BSジャパン 181,http://fm1077.serv00.net/Smart.php?id=bs181_japan$IPV4
@@ -475,25 +457,12 @@ NBA TV,http://fm1077.serv00.net/Smart.php?id=nbatv_twn$IPV4『线路1』
 NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8$IPV4『线路2』
 NBA TV,https://stream1.freetv.fun/nba-tv-1.ctv$IPV4『线路3』
 NBA TV,https://stream1.freetv.fun/nba-tv-4.ctv$IPV4『线路4』
-Astro Cricket,http://fm1077.serv00.net/Smart.php?id=Acricket_mega$IPV4『线路1』
-Astro Cricket,https://xyzdddd.mizhls.ru/lb/premium370/index.m3u8$IPV4『线路2』
+Astro Cricket,http://fm1077.serv00.net/Smart.php?id=Acricket_mega$IPV4
 Astro Golf,http://fm1077.serv00.net/Smart.php?id=Agolf$IPV4
-TNT Sports 1,http://fm1077.serv00.net/Smart.php?id=beeone$IPV4『线路1』
-TNT Sports 1,http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/161$IPV4『线路2』
-TNT Sports 1,http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133400$IPV4『线路3』
-TNT Sports 1,https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd$IPV4『线路4』
-TNT Sports 2,http://fm1077.serv00.net/Smart.php?id=beetwo$IPV4『线路1』
-TNT Sports 2,http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/93551$IPV4『线路2』
-TNT Sports 2,http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133402$IPV4『线路3』
-TNT Sports 2,https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd$IPV4『线路4』
-TNT Sports 3,http://fm1077.serv00.net/Smart.php?id=beethree$IPV4『线路1』
-TNT Sports 3,http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53517$IPV4『线路2』
-TNT Sports 3,http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133404$IPV4『线路3』
-TNT Sports 3,https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd$IPV4『线路4』
-TNT Sports 4,http://fm1077.serv00.net/Smart.php?id=beefour$IPV4『线路1』
-TNT Sports 4,http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/93693$IPV4『线路2』
-TNT Sports 4,http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133405$IPV4『线路3』
-TNT Sports 4,https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd$IPV4『线路4』
+TNT Sports 1,http://fm1077.serv00.net/Smart.php?id=beeone$IPV4
+TNT Sports 2,http://fm1077.serv00.net/Smart.php?id=beetwo$IPV4
+TNT Sports 3,http://fm1077.serv00.net/Smart.php?id=beethree$IPV4
+TNT Sports 4,http://fm1077.serv00.net/Smart.php?id=beefour$IPV4
 Sony Ten 1,http://fm1077.serv00.net/Smart.php?id=ten1_raj$IPV4
 Sony Ten 2,http://fm1077.serv00.net/Smart.php?id=ten2_raj$IPV4
 Sony Ten 3,http://fm1077.serv00.net/Smart.php?id=ten3_raj$IPV4
@@ -508,24 +477,24 @@ CCTV-5,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.li
 CCTV-5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8$IPV6『线路2』
 CCTV-5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8$IPV6『线路3』
 CCTV-5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8$IPV6『线路4』
-CCTV-5,http://www.angel147.cf:8888/rtp/239.49.1.5:6000$IPV4『线路5』
-CCTV-5,http://60.7.56.33:4000/rtp/239.253.92.181:6046$IPV4『线路6』
-CCTV-5,http://sweetown.fun:4000/rtp/239.3.1.173:8001$IPV4『线路7』
-CCTV-5,http://49.77.104.103:8554/udp/239.49.8.18:9610$IPV4『线路8』
-CCTV-5,http://49.77.104.103:8554/udp/239.49.9.32:6000$IPV4『线路9』
-CCTV-5,http://114.226.231.226:8888/udp/239.49.8.18:9610$IPV4『线路10』
-CCTV-5,http://114.226.231.226:8888/udp/239.49.9.32:6000$IPV4『线路11』
-CCTV-5,http://180.108.135.48:8888/udp/239.49.8.18:9610$IPV4『线路12』
-CCTV-5,http://180.108.135.48:8888/udp/239.49.9.32:6000$IPV4『线路13』
+CCTV-5,http://60.7.56.33:4000/rtp/239.253.92.181:6046$IPV4『线路5』
+CCTV-5,http://sweetown.fun:4000/rtp/239.3.1.173:8001$IPV4『线路6』
+CCTV-5,http://49.77.104.103:8554/udp/239.49.8.18:9610$IPV4『线路7』
+CCTV-5,http://49.77.104.103:8554/udp/239.49.9.32:6000$IPV4『线路8』
+CCTV-5,http://114.226.231.226:8888/udp/239.49.8.18:9610$IPV4『线路9』
+CCTV-5,http://114.226.231.226:8888/udp/239.49.9.32:6000$IPV4『线路10』
+CCTV-5,http://180.108.135.48:8888/udp/239.49.8.18:9610$IPV4『线路11』
+CCTV-5,http://180.108.135.48:8888/udp/239.49.9.32:6000$IPV4『线路12』
+CCTV-5,http://221.196.34.247:4022/udp/225.1.1.160:5002$IPV4『线路13』
 CCTV-5,http://221.196.34.247:4022/udp/225.1.1.160:5002$IPV4『线路14』
 CCTV-5,http://221.196.34.247:4022/udp/225.1.1.160:5002$IPV4『线路15』
-CCTV-5,http://221.196.34.247:4022/udp/225.1.1.160:5002$IPV4『线路16』
-CCTV-5,http://123.101.98.129:2000/rtp/239.16.20.53:10530$IPV4『线路17』
-CCTV-5,http://123.101.98.129:2000/rtp/239.16.10.132:2000$IPV4『线路18』
-CCTV-5,http://106.42.108.91:2000/rtp/239.16.20.53:10530$IPV4『线路19』
-CCTV-5,http://106.42.108.91:2000/rtp/239.16.10.132:2000$IPV4『线路20』
-CCTV-5,http://123.101.98.163:2000/rtp/239.16.20.53:10530$IPV4『线路21』
-CCTV-5,http://123.101.98.163:2000/rtp/239.16.10.132:2000$IPV4『线路22』
+CCTV-5,http://123.101.98.129:2000/rtp/239.16.20.53:10530$IPV4『线路16』
+CCTV-5,http://123.101.98.129:2000/rtp/239.16.10.132:2000$IPV4『线路17』
+CCTV-5,http://106.42.108.91:2000/rtp/239.16.20.53:10530$IPV4『线路18』
+CCTV-5,http://106.42.108.91:2000/rtp/239.16.10.132:2000$IPV4『线路19』
+CCTV-5,http://123.101.98.163:2000/rtp/239.16.20.53:10530$IPV4『线路20』
+CCTV-5,http://123.101.98.163:2000/rtp/239.16.10.132:2000$IPV4『线路21』
+CCTV-5,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.35:9728$IPV4『线路22』
 CCTV-5,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.35:9728$IPV4『线路23』
 CCTV-5,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.35:9728$IPV4『线路24』
 CCTV-5+,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8?IASHttpSessionId=$IPV6『线路1』
@@ -572,33 +541,31 @@ BolaArena 2,http://fm1077.serv00.net/Smart.php?id=Bolaarena2$IPV4『线路2』
 Animax,http://fm1077.serv00.net/Smart.php?id=Animax$IPV4『线路1』
 Animax,http://fm1077.serv00.net/Smart.php?id=Animax$IPV4『线路2』
 Animax,http://fm1077.serv00.net/Smart.php?id=Animax$IPV4『线路3』
-Animax,https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd$IPV4『线路4』
 Astrol Kplus,http://fm1077.serv00.net/Smart.php?id=Kplus$IPV4『线路1』
 Astrol Kplus,http://fm1077.serv00.net/Smart.php?id=Kplus$IPV4『线路2』
 CCTV-6,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000006$IPV6『线路1』
 CCTV-6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8$IPV6『线路2』
 CCTV-6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8$IPV6『线路3』
 CCTV-6,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/4/224/3221228123/index.m3u8$IPV6『线路4』
-CCTV-6,http://www.angel147.cf:8888/rtp/239.49.1.6:6000$IPV4『线路5』
-CCTV-6,http://60.7.56.33:4000/rtp/239.253.92.193:6058$IPV4『线路6』
-CCTV-6,http://49.77.104.103:8554/udp/239.49.9.33:6000$IPV4『线路7』
-CCTV-6,http://114.226.231.226:8888/udp/239.49.9.33:6000$IPV4『线路8』
-CCTV-6,http://180.108.135.48:8888/udp/239.49.9.33:6000$IPV4『线路9』
+CCTV-6,http://60.7.56.33:4000/rtp/239.253.92.193:6058$IPV4『线路5』
+CCTV-6,http://49.77.104.103:8554/udp/239.49.9.33:6000$IPV4『线路6』
+CCTV-6,http://114.226.231.226:8888/udp/239.49.9.33:6000$IPV4『线路7』
+CCTV-6,http://180.108.135.48:8888/udp/239.49.9.33:6000$IPV4『线路8』
+CCTV-6,http://221.196.34.247:4022/udp/225.1.1.195:5002$IPV4『线路9』
 CCTV-6,http://221.196.34.247:4022/udp/225.1.1.195:5002$IPV4『线路10』
 CCTV-6,http://221.196.34.247:4022/udp/225.1.1.195:5002$IPV4『线路11』
-CCTV-6,http://221.196.34.247:4022/udp/225.1.1.195:5002$IPV4『线路12』
-CCTV-6,http://123.101.98.129:2000/rtp/239.16.20.6:10060$IPV4『线路13』
-CCTV-6,http://123.101.98.129:2000/rtp/239.16.10.101:2000$IPV4『线路14』
-CCTV-6,http://106.42.108.91:2000/rtp/239.16.20.6:10060$IPV4『线路15』
-CCTV-6,http://106.42.108.91:2000/rtp/239.16.10.101:2000$IPV4『线路16』
-CCTV-6,http://123.101.98.163:2000/rtp/239.16.20.6:10060$IPV4『线路17』
-CCTV-6,http://123.101.98.163:2000/rtp/239.16.10.101:2000$IPV4『线路18』
+CCTV-6,http://123.101.98.129:2000/rtp/239.16.20.6:10060$IPV4『线路12』
+CCTV-6,http://123.101.98.129:2000/rtp/239.16.10.101:2000$IPV4『线路13』
+CCTV-6,http://106.42.108.91:2000/rtp/239.16.20.6:10060$IPV4『线路14』
+CCTV-6,http://106.42.108.91:2000/rtp/239.16.10.101:2000$IPV4『线路15』
+CCTV-6,http://123.101.98.163:2000/rtp/239.16.20.6:10060$IPV4『线路16』
+CCTV-6,http://123.101.98.163:2000/rtp/239.16.10.101:2000$IPV4『线路17』
+CCTV-6,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.36:9734$IPV4『线路18』
 CCTV-6,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.36:9734$IPV4『线路19』
 CCTV-6,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.36:9734$IPV4『线路20』
-CCTV-6,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.36:9734$IPV4『线路21』
+CCTV-6,http://fm1077.serv00.net/Smart.php?id=cctv6$IPV4『线路21』
 CCTV-6,http://fm1077.serv00.net/Smart.php?id=cctv6$IPV4『线路22』
-CCTV-6,http://fm1077.serv00.net/Smart.php?id=cctv6$IPV4『线路23』
-CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0855&tk=2aca1ad9a849$IPV4『线路24』
+CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0855&tk=2aca1ad9a849$IPV4『线路23』
 Celestial Classic,http://fm1077.serv00.net/Smart.php?id=Celestial2$IPV4『线路1』
 Celestial Classic,http://fm1077.serv00.net/Smart.php?id=Celestial2$IPV4『线路2』
 Celestial Movies HD,http://fm1077.serv00.net/Smart.php?id=Celestial_mega$IPV4『线路1』
@@ -606,13 +573,10 @@ Celestial Movies HD,http://fm1077.serv00.net/Smart.php?id=Celestialindo$IPV4『�
 Celestial Movies HD,http://fm1077.serv00.net/Smart.php?id=Celestialindo$IPV4『线路3』
 Cinemax,http://fm1077.serv00.net/Smart.php?id=Cinemax$IPV4『线路1』
 Cinemax,http://fm1077.serv00.net/Smart.php?id=Cinemax$IPV4『线路2』
-Cinemax,https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd$IPV4『线路3』
 HBO Hits,http://fm1077.serv00.net/Smart.php?id=Hbohits$IPV4『线路1』
 HBO Hits,http://fm1077.serv00.net/Smart.php?id=Hbohits$IPV4『线路2』
-HBO Hits,https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd$IPV4『线路3』
 HBO Signature,http://fm1077.serv00.net/Smart.php?id=Hbosignature$IPV4『线路1』
 HBO Signature,http://fm1077.serv00.net/Smart.php?id=Hbosignature$IPV4『线路2』
-HBO Signature,https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd$IPV4『线路3』
 HBO_HITS,http://fm1077.serv00.net/Smart.php?id=hbohits_twn$IPV4
 Hits,http://fm1077.serv00.net/Smart.php?id=Hits$IPV4『线路1』
 Hits,http://fm1077.serv00.net/Smart.php?id=Hits$IPV4『线路2』
@@ -636,7 +600,6 @@ tvN Movie,http://fm1077.serv00.net/Smart.php?id=Tvnmovie$IPV4『线路3』
 大愛2台,http://fm1077.serv00.net/Smart.php?id=catchplay_twn$IPV4
 Documentary,#genre#
 CI,http://fm1077.serv00.net/Smart.php?id=ci_twn$IPV4
-Fashion TV,https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd$IPV4
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega$IPV4『线路1』
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega$IPV4『线路2』
 TLC Asia,http://fm1077.serv00.net/Smart.php?id=tlc_twn$IPV4
@@ -653,11 +616,9 @@ ABC News,https://lnc-abc-news.tubi.video/index.m3u8$IPV4『线路2』
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8$IPV4『线路3』
 ABC News,http://fm1077.serv00.net/Smart.php?id=abcnews_glo$IPV4『线路4』
 ABC News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8$IPV4『线路5』
-ABC News,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8$IPV4『线路6』
 CBS HD,http://fm1077.serv00.net/Smart.php?id=cbshd_glo$IPV4
 CBSN HD,http://fm1077.serv00.net/Smart.php?id=cbsn_glo$IPV4
-CNN International,http://fm1077.serv00.net/Smart.php?id=Cnn$IPV4『线路1』
-CNN International,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8$IPV4『线路2』
+CNN International,http://fm1077.serv00.net/Smart.php?id=Cnn$IPV4
 CNN(備用),http://fm1077.serv00.net/Smart.php?id=cnn_twn$IPV4『线路1』
 CNN(備用),http://fm1077.serv00.net/Smart.php?id=cnn_twn$IPV4『线路2』
 儿童,#genre#
@@ -666,7 +627,6 @@ Baby TV,http://fm1077.serv00.net/Smart.php?id=babytv_twn$IPV4
 Boomerang Taiwan,http://fm1077.serv00.net/Smart.php?id=boomerang_twn$IPV4
 Cartoon Network,http://fm1077.serv00.net/Smart.php?id=Cn$IPV4『线路1』
 Cartoon Network,http://fm1077.serv00.net/Smart.php?id=Cn$IPV4『线路2』
-Cartoon Network,https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8$IPV4『线路3』
 Disney Taiwan,http://fm1077.serv00.net/Smart.php?id=disneytwn_twn$IPV4
 MiaoMi,http://fm1077.serv00.net/Smart.php?id=MiaoMi$IPV4
 東森幼幼 Yoyo TV,http://fm1077.serv00.net/Smart.php?id=yoyo_twn$IPV4
