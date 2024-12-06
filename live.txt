@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-06 05:39:01
+更新时间: 2024-12-06 17:40:57
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts$IPV4『线路1』
@@ -62,7 +62,7 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn$IPV4
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8$IPV4『线路2』
 八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst$IPV4『线路3』
 八大第一,http://59.127.17.227:8584/http/61.67.128.137:8088/hls/66/808/ch22.m3u8$IPV4『线路4』
-八大第一,p3p://108.181.32.169:48838/6425207f00050f7aea60732c51b94fad$IPV4『线路5』
+八大第一,p3p://108.181.32.169:42218/6425207f00050f7aea60732c51b94fad$IPV4『线路5』
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e$IPV4『线路6』
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076$IPV4『线路7』
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8$IPV4『线路8』
@@ -90,8 +90,8 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn$IPV4
 好消息2台,http://litv.zapi.us.kg/?id=litv-ftv17$IPV4『线路1』
 好消息2台,https://litv.zapi.us.kg/?id=litv-ftv17$IPV4『线路2』
 大愛一台,http://fm1077.serv00.net/Smart.php?id=daai_twn$IPV4
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8$IPV4『线路1』
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u$IPV4『线路2』
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u$IPV4『线路1』
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8$IPV4『线路2』
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8$IPV4『线路3』
 緯來日本台,http://fm1077.serv00.net/Smart.php?id=videolandjapan$IPV4
 緯來體育台,http://fm1077.serv00.net/Smart.php?id=videolandsport$IPV4
@@ -226,7 +226,7 @@ Suria,http://fm1077.serv00.net/Smart.php?id=Suria$IPV4
 Suria(備用),http://fm1077.serv00.net/Smart.php?id=Suria_backup$IPV4
 Channel U,http://fm1077.serv00.net/Smart.php?id=ChannelU$IPV4
 Channel U(備用),http://fm1077.serv00.net/Smart.php?id=ChU_mega$IPV4
-CNA,p3p://108.181.32.169:48838/6426077a00093ea7ede6b8b64d6d4c6e$IPV4『线路1』
+CNA,p3p://108.181.32.169:42218/6426077a00093ea7ede6b8b64d6d4c6e$IPV4『线路1』
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路2』
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路3』
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$IPV4『线路4』
@@ -257,26 +257,26 @@ iNews 新聞台,http://fm1077.serv00.net/Smart.php?id=inews_twn$IPV4
 珍珠台(備用),http://fm1077.serv00.net/Smart.php?id=pearl_hkdavid$IPV4
 珍珠台,http://fm1077.serv00.net/Smart.php?id=pearl_twn$IPV4
 翡翠台(備用),http://fm1077.serv00.net/Smart.php?id=jade_mike$IPV4
-翡翠台,http://119.125.134.225:9902/tsfile/live/1007_1.m3u8$IPV4『线路1』
-翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379$IPV4『线路2』
-翡翠台,http://171.38.66.46:8181/tsfile/live/1049_1.m3u8$IPV4『线路3』
-翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$IPV4『线路4』
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127$IPV4『线路5』
-翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$IPV4『线路6』
-翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn$IPV4『线路7』
-翡翠台,http://209.141.54.128:52055/mytvsuper/J$IPV4『线路8』
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40$IPV4『线路1』
+翡翠台,http://223.244.26.190:8082/tvb翡翠.盗源者死全家/易發TV/hls.m3u8$IPV4『线路2』
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4$IPV4『线路3』
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025$IPV4『线路4』
+翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3$IPV4『线路5』
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$IPV4『线路6』
+翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$IPV4『线路7』
+翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$IPV4『线路8』
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$IPV4『线路9』
-翡翠台,http://171.38.42.112:8181/tsfile/live/1049_1.m3u8$IPV4『线路10』
-翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT$IPV4『线路11』
-翡翠台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8$IPV4『线路12』
-翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8$IPV4『线路13』
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40$IPV4『线路14』
-翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$IPV4『线路15』
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn$IPV4『线路16』
-翡翠台,http://113.83.152.56:8182/bynumber/1$IPV4『线路17』
-翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$IPV4『线路18』
-翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$IPV4『线路19』
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$IPV4『线路20』
+翡翠台,http://119.125.134.206:9902/tsfile/live/1007_1.m3u8$IPV4『线路10』
+翡翠台,http://metatvpro.xyz:25461/W1045/4329/12205$IPV4『线路11』
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn$IPV4『线路12』
+翡翠台,http://fm1077.serv00.net/Smart.php?id=jade_twn$IPV4『线路13』
+翡翠台,https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8$IPV4『线路14』
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8$IPV4『线路15』
+翡翠台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8$IPV4『线路16』
+翡翠台,http://r.jdshipin.com/qrfbg$IPV4『线路17』
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8$IPV4『线路18』
+翡翠台,http://119.125.134.225:9902/tsfile/live/1007_1.m3u8$IPV4『线路19』
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124$IPV4『线路20』
 鳳凰衛視,http://fm1077.serv00.net/Smart.php?id=phoenixtv_hd$IPV4『线路1』
 鳳凰衛視,http://fm1077.serv00.net/Smart.php?id=phoenixtv_hd$IPV4『线路2』
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$IPV4『线路1』
@@ -370,13 +370,12 @@ Hits Movie,http://fm1077.serv00.net/Smart.php?id=Hitsmovie$IPV4『线路3』
 Kids TV,http://fm1077.serv00.net/Smart.php?id=KidsTV$IPV4『线路1』
 Kids TV,http://fm1077.serv00.net/Smart.php?id=KidsTV$IPV4『线路2』
 More4,http://fm1077.serv00.net/Smart.php?id=more4_antik$IPV4
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8$IPV4『线路1』
-NHK World,http://fm1077.serv00.net/Smart.php?id=nhkworld_japan$IPV4『线路2』
+NHK World,http://fm1077.serv00.net/Smart.php?id=nhkworld_japan$IPV4『线路1』
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8$IPV4『线路2』
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8$IPV4『线路3』
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8$IPV4『线路4』
+NHK World,http://fm1077.serv00.net/Smart.php?id=nhkworld_japan$IPV4『线路4』
 NHK World,http://fm1077.serv00.net/Smart.php?id=nhkworld_japan$IPV4『线路5』
 NHK World,http://fm1077.serv00.net/Smart.php?id=nhkworld_japan$IPV4『线路6』
-NHK World,http://fm1077.serv00.net/Smart.php?id=nhkworld_japan$IPV4『线路7』
 NatGeo HD,http://fm1077.serv00.net/Smart.php?id=Natgeo$IPV4『线路1』
 NatGeo HD,http://fm1077.serv00.net/Smart.php?id=Natgeo$IPV4『线路2』
 NatGeo Wild HD,http://fm1077.serv00.net/Smart.php?id=Natgeowild$IPV4『线路1』
@@ -550,6 +549,7 @@ CCTV-5+,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.171:9014$IPV4『线路18』
 CCTV-5+,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.171:9014$IPV4『线路19』
 CCTV-5+,http://fm1077.serv00.net/Smart.php?id=cctv5plus$IPV4『线路20』
 CCTV-5+,http://fm1077.serv00.net/Smart.php?id=cctv5plus$IPV4『线路21』
+CCTV-5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4001&tk=2aca1ad9a849$IPV4『线路22』
 RTM Sports HD,http://fm1077.serv00.net/Smart.php?id=Rtmsport$IPV4『线路1』
 RTM Sports HD,http://fm1077.serv00.net/Smart.php?id=Rtmsport$IPV4『线路2』
 Arena,http://fm1077.serv00.net/Smart.php?id=Arena$IPV4『线路1』
@@ -598,6 +598,7 @@ CCTV-6,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.36:9734$IPV4『线路20』
 CCTV-6,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.36:9734$IPV4『线路21』
 CCTV-6,http://fm1077.serv00.net/Smart.php?id=cctv6$IPV4『线路22』
 CCTV-6,http://fm1077.serv00.net/Smart.php?id=cctv6$IPV4『线路23』
+CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0855&tk=2aca1ad9a849$IPV4『线路24』
 Celestial Classic,http://fm1077.serv00.net/Smart.php?id=Celestial2$IPV4『线路1』
 Celestial Classic,http://fm1077.serv00.net/Smart.php?id=Celestial2$IPV4『线路2』
 Celestial Movies HD,http://fm1077.serv00.net/Smart.php?id=Celestial_mega$IPV4『线路1』
@@ -639,11 +640,11 @@ Fashion TV,https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.m
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega$IPV4『线路1』
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega$IPV4『线路2』
 TLC Asia,http://fm1077.serv00.net/Smart.php?id=tlc_twn$IPV4
-美食星球,p3p://108.181.32.169:51690/6425252400079076ea72985811e07306$IPV4『线路1』
+美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn$IPV4『线路1』
 美食星球,http://se.xvvx.eu.org/ublive.php?id=1360$IPV4『线路2』
-美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn$IPV4『线路3』
-美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn$IPV4『线路4』
-美食星球,p3p://108.181.32.169:48838/6425252400079076ea72985811e07306$IPV4『线路5』
+美食星球,p3p://108.181.32.169:48838/6425252400079076ea72985811e07306$IPV4『线路3』
+美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn$IPV4『线路4』
+美食星球,p3p://108.181.32.169:42218/6425252400079076ea72985811e07306$IPV4『线路5』
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn$IPV4『线路6』
 美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn$IPV4『线路7』
 新闻,#genre#
