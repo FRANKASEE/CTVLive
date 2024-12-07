@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-07 17:38:27
+更新时间: 2024-12-08 05:37:27
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts$IPV4『线路1』
@@ -219,8 +219,8 @@ Channel U,http://fm1077.serv00.net/Smart.php?id=ChannelU$IPV4
 Channel U(備用),http://fm1077.serv00.net/Smart.php?id=ChU_mega$IPV4
 CNA,p3p://108.181.32.169:39375/6426077a00093ea7ede6b8b64d6d4c6e$IPV4『线路1』
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路2』
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$IPV4『线路3』
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路4』
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路3』
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$IPV4『线路4』
 CNA,http://fm1077.serv00.net/Smart.php?id=cna$IPV4『线路5』
 CNA,http://fm1077.serv00.net/Smart.php?id=cna$IPV4『线路6』
 CNA,http://fm1077.serv00.net/Smart.php?id=cna$IPV4『线路7』
