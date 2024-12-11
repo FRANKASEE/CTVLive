@@ -18,6 +18,7 @@ source_urls = [
     "https://tv.youdu.fan:666/live/",
     "http://ww.weidonglong.com/dsj.txt",
     "http://xhztv.top/zbc.txt",
+    "https://freetv.fun/test_channels_korea.txt",
     "https://raw.githubusercontent.com/wwb521/live/refs/heads/main/ipv4.txt",
     "https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt",
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
