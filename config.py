@@ -1,4 +1,4 @@
-ip_version_priority = "ipv6"
+ip_version_priority = "ipv4"
 
 source_urls = [
     "https://m3u.hackserver.net/txt/fmml_ipv6.txt",
