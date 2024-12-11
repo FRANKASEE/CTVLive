@@ -5,7 +5,6 @@ from collections import defaultdict, OrderedDict
 from datetime import datetime
 import config
 
-
 # 配置日志记录
 logging.basicConfig(level=logging.INFO, 
                     format='%(asctime)s - %(levelname)s - %(message)s', 
@@ -137,18 +136,20 @@ def updateChannelUrlsM3U(channels, template_channels):
                             filtered_urls = [url for url in sorted_urls if url and url not in written_urls and not any(blacklist in url for blacklist in config.url_blacklist)]
                             written_urls.update(filtered_urls)
 
-                            # 提取前20个IPv6和前20个IPv4的直播源
+                            # 提取前40个IPv6和前40个IPv4的直播源
                             ipv6_streams = [url for url in filtered_urls if is_ipv6(url)][:40]
                             ipv4_streams = [url for url in filtered_urls if not is_ipv6(url)][:40]
 
                             # 将IPv6放在前面，IPv4放在后面
                             combined_streams = ipv6_streams + ipv4_streams
 
+                            # 正确的缩进位置
+                            for index, new_url in enumerate(combined_streams):
                                 f_m3u.write(f"#EXTINF:-1 tvg-id=\"{index}\" tvg-name=\"{channel_name}\" tvg-logo=\"https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/{channel_name}.png\" group-title=\"{category}\",{channel_name}\n")
                                 f_m3u.write(new_url + "\n")
                                 f_txt.write(f"{channel_name},{new_url}\n")
 
-            f_txt.write("\n")
+                f_txt.write("\n")
 
 # 主执行逻辑
 if __name__ == "__main__":
