@@ -56,6 +56,7 @@ url_blacklist = [
     "148.135.93.213:81",
     "live.goodiptv.club",
     "iptv.luas.edu.cn"
+    "aktv.top"
 ]
 
 announcements = [
