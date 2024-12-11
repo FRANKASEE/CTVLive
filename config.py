@@ -58,6 +58,7 @@ url_blacklist = [
     "live.goodiptv.club",
     "iptv.luas.edu.cn"
     "aktv.top"
+    "fm1077.serv00.net" 
 ]
 
 announcements = [
