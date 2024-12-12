@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-# 更新时间: 2024-12-12 17:41:39
+# 更新时间: 2024-12-13 05:39:11
 
 #EXTINF:-1 tvg-id="0" tvg-name="TVBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS.png" group-title="台湾",TVBS
 http://125.227.210.55:8188/VideoInput/play.ts
