@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-12 05:39:05
+更新时间: 2024-12-12 17:41:39
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
@@ -11,6 +11,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS,http://47.239.239.192/4gtv/litv.php?id=4gtv-4gtv0044gtv-4gtv073
 TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS,P2p://generationnexxxt.com:19806/1b811ad38b0f47a393d0a76155b2fd44
+TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv073
 TVBS,http://211.72.65.236:8575/.m3u8
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
@@ -31,7 +32,6 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 中天綜合,http://fm1077.serv00.net/Smart.php?id=ctizhonghe
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中天新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天亞洲台,https://litv.zapi.us.kg/?id=4gtv-4gtv109
@@ -40,6 +40,7 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
 東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
 東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 東森新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv152
 東森新聞,http://fm1077.serv00.net/Smart.php?id=ettvnews
 東森戲劇,http://fm1077.serv00.net/Smart.php?id=ettvdrama
@@ -93,10 +94,11 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst
 八大第一,P2p://starvod.xyz:19806/480cb414334e45648eb2ea851401255f
-八大第一,p3p://108.181.32.169:38948/6425207f00050f7aea60732c51b94fad
+八大第一,p3p://108.181.32.169:45270/6425207f00050f7aea60732c51b94fad
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大第一,P2p://starvod.xyz:19806/480cb414334e45648eb2ea851401255f
 八大第一,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大第一,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
@@ -104,7 +106,8 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-八大第一,p3p://108.181.32.169:31277/6425207f00050f7aea60732c51b94fad
+八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst
+八大第一,p3p://108.181.32.169:45270/6425207f00050f7aea60732c51b94fad
 八大第一,http://fm1077.serv00.net/Smart.php?id=badafirst
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
@@ -117,7 +120,7 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 八大綜藝台,https://litv.zapi.us.kg/?id=4gtv-4gtv039
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台,http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn
-寰宇新聞台灣台,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+寰宇新聞台灣台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/litv-longturn15
 寰宇新聞台灣台,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 寰宇新聞台灣台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/litv-longturn15
 寰宇財經台,http://fm1077.serv00.net/Smart.php?id=huanyutaiwan_twn
@@ -145,9 +148,9 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 好消息2台,mitv://generationnexxxt.com:19806/2662fe0a2d7745c6b6991ecf37f0595d
 好消息2台,mitv://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
 大愛一台,http://fm1077.serv00.net/Smart.php?id=daai_twn
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 緯來日本台,http://fm1077.serv00.net/Smart.php?id=videolandjapan
@@ -249,6 +252,8 @@ ELEVEN1,http://211.72.65.236:8566/.m3u8
 博斯高球二台,mitv://generationnexxxt.com:19806/8afa52d0fe0047f8a6d7e51f46697f93
 博斯魅力台,https://litv.zapi.us.kg/?id=litv-longturn04
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+美亞電影,p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
+美亞電影,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 美亞電影,http://fm1077.serv00.net/Smart.php?id=meiyamovie_twn
 美亞電影,http://fm1077.serv00.net/Smart.php?id=meiyamovie_twn
 美亞電影,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
@@ -282,11 +287,10 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://fm1077.serv00.net/Smart.php?id=momo1_twn
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
-CN卡通,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476247.ts
 CN卡通,http://test.zapi.us.kg/?id=cn-cartoon
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
@@ -297,6 +301,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
 AXN,P2p://generationnexxxt.com:19806/1e1fb5802779465a9948e3a873933a3d
 AXN,http://211.72.65.236:8582/.m3u
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 AXN,mitv://generationnexxxt.com:19806/1e1fb5802779465a9948e3a873933a3d
 AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
 AXN,mitv://generationnexxxt.com:19806/a61594ab252e4daea32355a520d2bca4
@@ -321,6 +326,7 @@ HBO,http://test.zapi.us.kg/?id=hbo-hd
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,mitv://generationnexxxt.com:19806/8cfe0b79b15646bdb56b5cfac4de3d6e
 HBO,mitv://generationnexxxt.com:19806/b79befcb39624435a90a4baa01621a22
+HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 HBO,http://fm1077.serv00.net/Smart.php?id=hbohd_twn
 HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 HBO Family,http://170.254.18.106/HBO_FAMILY/index.m3u8
@@ -334,6 +340,7 @@ MTV Live,http://fm1077.serv00.net/Smart.php?id=mtvhd_twn
 MTV Live,http://fm1077.serv00.net/Smart.php?id=mtvhd_twn
 MTV Live,http://fm1077.serv00.net/Smart.php?id=mtvhd_twn
 TechStorm,mitv://generationnexxxt.com:19806/994876c6aadc4234ba73441f18d36602
+TraceSports,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv077
 TraceSports,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv077
 影迷數位電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 影迷數位電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
@@ -353,6 +360,7 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 Nickelodeon,http://fm1077.serv00.net/Smart.php?id=Nickelodeon
 Nickelodeon,http://fm1077.serv00.net/Smart.php?id=Nickelodeon
 Nickelodeon,http://fm1077.serv00.net/Smart.php?id=Nickelodeon
+i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 Mezzo Live,mitv://generationnexxxt.com:19806/1c1e90cd01934a5f917ec4fad5c97665
 Mezzo Live,mitv://generationnexxxt.com:19806/80375e2d54ef488f830a5e10b31fe47c
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -378,13 +386,13 @@ Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 Channel U,http://test.zapi.us.kg/?id=channel-u
 Channel U,http://fm1077.serv00.net/Smart.php?id=ChannelU
 Channel U(備用),http://fm1077.serv00.net/Smart.php?id=ChU_mega
-CNA,p3p://108.181.32.169:38948/6426077a00093ea7ede6b8b64d6d4c6e
+CNA,p3p://108.181.32.169:45270/6426077a00093ea7ede6b8b64d6d4c6e
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,P2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA,p3p://108.181.32.169:31277/6426077a00093ea7ede6b8b64d6d4c6e
+CNA,p3p://108.181.32.169:45270/6426077a00093ea7ede6b8b64d6d4c6e
 CNA,http://fm1077.serv00.net/Smart.php?id=cna
 CNA,http://fm1077.serv00.net/Smart.php?id=cna
 CNA,http://fm1077.serv00.net/Smart.php?id=cna
@@ -400,19 +408,16 @@ J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$订阅源
 J2,P2p://generationnexxxt.com:19806/fd76c6fe901545c5b39543824e25c80b
 J2,http://113.88.66.42:8001/bysid/82
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn
-J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4『线路1』
-J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4『线路2』
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4『线路3』
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4『线路4』
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$订阅源
 J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8
-J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8$LR•IPV4『线路3』
 J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8$LR•IPV4『线路4』
 J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8$LR•IPV4『线路5』
 J2,http://r.jdshipin.com/Nr5jq$LR•IPV4『线路1』
-J2,http://r.jdshipin.com/Nr5jq$LR•IPV4『线路2』
-J2,http://r.jdshipin.com/ndGgS$LR•IPV4『线路1』
+J2,http://r.jdshipin.com/Nr5jq$订阅源
 J2,http://r.jdshipin.com/ndGgS$LR•IPV4『线路2』
+J2,http://r.jdshipin.com/ndGgS$订阅源
 J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 J2,mitv://generationnexxxt.com:19806/fd76c6fe901545c5b39543824e25c80b
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn
@@ -487,13 +492,13 @@ CGTN,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.19:8108
 CGTN,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.19:8108
 CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN,P2p://generationnexxxt.com:19806/ab925b53dccb41ed850b9797e4b8732c
-CGTN,http://182.92.109.190:1668/72/72.php?id=cgtn
 CGTN,http://36.32.174.67:60080/newlive/live/hls/5/live.m3u8
 CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227350/index.m3u8
 CGTN,http://live.aishang.ctlcdn.com/00000110240365_1/playlist.m3u8?CONTENTID=00000110240365_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CGTN,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000009569/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=3
 CGTN,http://zteres.sn.chinamobile.com:6060/000000001000/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
 CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN,https://pi.0472.org/tv/fct.php?auth=230918
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
 CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
@@ -538,6 +543,7 @@ Hits Movie,http://fm1077.serv00.net/Smart.php?id=Hitsmovie
 Kids TV,http://fm1077.serv00.net/Smart.php?id=KidsTV
 Kids TV,http://fm1077.serv00.net/Smart.php?id=KidsTV
 More4,http://fm1077.serv00.net/Smart.php?id=more4_antik
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,http://fm1077.serv00.net/Smart.php?id=nhkworld_japan
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -583,6 +589,7 @@ TLC,http://fm1077.serv00.net/Smart.php?id=Tlc
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 Thrill,P2p://generationnexxxt.com:19806/9b9e791106d14b60a3444a17301ade7e
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+Thrill,https://stream1.freetv.fun/thrill-1.m3u8
 Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 Thrill,mitv://generationnexxxt.com:19806/9b9e791106d14b60a3444a17301ade7e
 Thrill,http://fm1077.serv00.net/Smart.php?id=Thrill
@@ -756,21 +763,21 @@ Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 TLC Asia,http://fm1077.serv00.net/Smart.php?id=tlc_twn
-美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
 美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
-美食星球,http://se.xvvx.eu.org/ublive.php?id=1360
 美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
-美食星球,p3p://108.181.32.169:23371/6425252400079076ea72985811e07306
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
 美食星球,p3p://108.181.32.169:38948/6425252400079076ea72985811e07306
+美食星球,http://se.xvvx.eu.org/ublive.php?id=1360
+美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
 美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
+美食星球,p3p://108.181.32.169:45270/6425252400079076ea72985811e07306
 美食星球,P2p://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23
-美食星球,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476263.ts
+美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
 美食星球,http://test.zapi.us.kg/?id=food-planet
 美食星球,mitv://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0
 美食星球,mitv://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23
-美食星球,p3p://108.181.32.169:31277/6425252400079076ea72985811e07306
+美食星球,p3p://108.181.32.169:45270/6425252400079076ea72985811e07306
 美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
 
 新闻,#genre#
@@ -778,7 +785,6 @@ ABC News,http://ytb.csscc.cc:2086/live.m3u8?c=12
 ABC News,https://lnc-abc-news.tubi.video/index.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 ABC News,http://test.zapi.us.kg/?id=abc-news
-ABC News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 ABC News,http://fm1077.serv00.net/Smart.php?id=abcnews_glo
 ABC News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 CBS HD,http://fm1077.serv00.net/Smart.php?id=cbshd_glo
