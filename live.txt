@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-14 05:38:25
+更新时间: 2024-12-14 17:38:59
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
@@ -92,9 +92,11 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 八大戲劇,http://fm1077.serv00.net/Smart.php?id=badadrama
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst
+八大第一,P2p://starvod.xyz:19806/480cb414334e45648eb2ea851401255f
+八大第一,p3p://108.181.32.169:32703/6425207f00050f7aea60732c51b94fad
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,P2p://starvod.xyz:19806/480cb414334e45648eb2ea851401255f
 八大第一,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
@@ -384,6 +386,7 @@ Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 Channel U,http://test.zapi.us.kg/?id=channel-u
 Channel U,http://fm1077.serv00.net/Smart.php?id=ChannelU
 Channel U(備用),http://fm1077.serv00.net/Smart.php?id=ChU_mega
+CNA,p3p://108.181.32.169:32703/6426077a00093ea7ede6b8b64d6d4c6e
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -540,8 +543,8 @@ Hits Movie,http://fm1077.serv00.net/Smart.php?id=Hitsmovie
 Kids TV,http://fm1077.serv00.net/Smart.php?id=KidsTV
 Kids TV,http://fm1077.serv00.net/Smart.php?id=KidsTV
 More4,http://fm1077.serv00.net/Smart.php?id=more4_antik
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,http://fm1077.serv00.net/Smart.php?id=nhkworld_japan
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,http://fm1077.serv00.net/Smart.php?id=nhkworld_japan
@@ -759,12 +762,12 @@ Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 TLC Asia,http://fm1077.serv00.net/Smart.php?id=tlc_twn
-美食星球,p3p://108.181.32.169:45270/6425252400079076ea72985811e07306
-美食星球,http://se.xvvx.eu.org/ublive.php?id=1360
-美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
 美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
+美食星球,http://se.xvvx.eu.org/ublive.php?id=1360
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
+美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
+美食星球,p3p://108.181.32.169:32703/6425252400079076ea72985811e07306
 美食星球,P2p://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23
 美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
