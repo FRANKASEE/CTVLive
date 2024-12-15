@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-# 更新时间: 2024-12-15 05:37:32
+# 更新时间: 2024-12-15 17:38:27
 
 #EXTINF:-1 tvg-id="0" tvg-name="TVBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS.png" group-title="台湾",TVBS
 http://125.227.210.55:8188/VideoInput/play.ts
@@ -184,44 +184,42 @@ http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst
 #EXTINF:-1 tvg-id="3" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
-P2p://starvod.xyz:19806/480cb414334e45648eb2ea851401255f
+p3p://108.181.32.169:18118/6425207f00050f7aea60732c51b94fad
 #EXTINF:-1 tvg-id="4" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
-p3p://108.181.32.169:32703/6425207f00050f7aea60732c51b94fad
+http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 #EXTINF:-1 tvg-id="5" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
-http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 #EXTINF:-1 tvg-id="6" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
-http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
-http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 P2p://starvod.xyz:19806/480cb414334e45648eb2ea851401255f
-#EXTINF:-1 tvg-id="9" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
+#EXTINF:-1 tvg-id="8" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-#EXTINF:-1 tvg-id="10" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
+#EXTINF:-1 tvg-id="9" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-#EXTINF:-1 tvg-id="11" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
+#EXTINF:-1 tvg-id="10" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+#EXTINF:-1 tvg-id="11" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
+http://211.72.65.236:8519/.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
-http://211.72.65.236:8519/.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+#EXTINF:-1 tvg-id="13" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
+http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 #EXTINF:-1 tvg-id="14" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
-http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
-http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst
-#EXTINF:-1 tvg-id="17" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
+#EXTINF:-1 tvg-id="16" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 p3p://108.181.32.169:45270/6425207f00050f7aea60732c51b94fad
-#EXTINF:-1 tvg-id="18" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
+#EXTINF:-1 tvg-id="17" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 http://fm1077.serv00.net/Smart.php?id=badafirst
-#EXTINF:-1 tvg-id="19" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
+#EXTINF:-1 tvg-id="18" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
+#EXTINF:-1 tvg-id="19" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-#EXTINF:-1 tvg-id="21" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
+#EXTINF:-1 tvg-id="20" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 http://211.72.65.236:8519/.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
+#EXTINF:-1 tvg-id="21" tvg-name="八大第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大第一.png" group-title="台湾",八大第一
 http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 #EXTINF:-1 tvg-id="0" tvg-name="八大綜合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大綜合.png" group-title="台湾",八大綜合
 http://61.221.215.25:8800/hls/56/index.m3u8
@@ -294,11 +292,11 @@ mitv://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
 #EXTINF:-1 tvg-id="0" tvg-name="大愛一台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/大愛一台.png" group-title="台湾",大愛一台
 http://fm1077.serv00.net/Smart.php?id=daai_twn
 #EXTINF:-1 tvg-id="0" tvg-name="人間衛視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/人間衛視.png" group-title="台湾",人間衛視
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 tvg-id="1" tvg-name="人間衛視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/人間衛視.png" group-title="台湾",人間衛視
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="人間衛視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/人間衛視.png" group-title="台湾",人間衛視
+#EXTINF:-1 tvg-id="1" tvg-name="人間衛視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/人間衛視.png" group-title="台湾",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="人間衛視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/人間衛視.png" group-title="台湾",人間衛視
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 #EXTINF:-1 tvg-id="3" tvg-name="人間衛視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/人間衛視.png" group-title="台湾",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 #EXTINF:-1 tvg-id="4" tvg-name="人間衛視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/人間衛視.png" group-title="台湾",人間衛視
@@ -516,11 +514,11 @@ http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="美亞電影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美亞電影.png" group-title="台湾",美亞電影
 p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
 #EXTINF:-1 tvg-id="8" tvg-name="美亞電影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美亞電影.png" group-title="台湾",美亞電影
-p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
-#EXTINF:-1 tvg-id="9" tvg-name="美亞電影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美亞電影.png" group-title="台湾",美亞電影
-p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
-#EXTINF:-1 tvg-id="10" tvg-name="美亞電影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美亞電影.png" group-title="台湾",美亞電影
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="美亞電影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美亞電影.png" group-title="台湾",美亞電影
+p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
+#EXTINF:-1 tvg-id="10" tvg-name="美亞電影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美亞電影.png" group-title="台湾",美亞電影
+p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 #EXTINF:-1 tvg-id="0" tvg-name="BBC World News" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/BBC World News.png" group-title="台湾",BBC World News
 P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
 #EXTINF:-1 tvg-id="1" tvg-name="BBC World News" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/BBC World News.png" group-title="台湾",BBC World News
@@ -572,9 +570,9 @@ https://stream1.freetv.fun/cnqia-tong-1.ctv
 #EXTINF:-1 tvg-id="3" tvg-name="CN卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CN卡通.png" group-title="台湾",CN卡通
 p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
 #EXTINF:-1 tvg-id="4" tvg-name="CN卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CN卡通.png" group-title="台湾",CN卡通
-http://125.227.210.55:8167/VideoInput/play.ts
-#EXTINF:-1 tvg-id="5" tvg-name="CN卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CN卡通.png" group-title="台湾",CN卡通
 https://stream1.freetv.fun/cnqia-tong-1.ctv
+#EXTINF:-1 tvg-id="5" tvg-name="CN卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CN卡通.png" group-title="台湾",CN卡通
+http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6" tvg-name="CN卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CN卡通.png" group-title="台湾",CN卡通
 http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:-1 tvg-id="7" tvg-name="CN卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CN卡通.png" group-title="台湾",CN卡通
@@ -741,6 +739,8 @@ http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 http://test.zapi.us.kg/?id=channel-5
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Channel 5.png" group-title="新加坡",Channel 5
 http://fm1077.serv00.net/Smart.php?id=Channel5HD
+#EXTINF:-1 tvg-id="3" tvg-name="Channel 5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Channel 5.png" group-title="新加坡",Channel 5
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="Channel 5(備用)" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Channel 5(備用).png" group-title="新加坡",Channel 5(備用)
 http://fm1077.serv00.net/Smart.php?id=Ch5_mega
 #EXTINF:-1 tvg-id="0" tvg-name="Channel 8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Channel 8.png" group-title="新加坡",Channel 8
@@ -749,6 +749,8 @@ http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 http://test.zapi.us.kg/?id=channel8
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Channel 8.png" group-title="新加坡",Channel 8
 http://fm1077.serv00.net/Smart.php?id=Channel8HD
+#EXTINF:-1 tvg-id="3" tvg-name="Channel 8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Channel 8.png" group-title="新加坡",Channel 8
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="Channel 8(備用)" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Channel 8(備用).png" group-title="新加坡",Channel 8(備用)
 http://fm1077.serv00.net/Smart.php?id=Ch8_mega
 #EXTINF:-1 tvg-id="0" tvg-name="Suria" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Suria.png" group-title="新加坡",Suria
@@ -763,10 +765,12 @@ http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 http://test.zapi.us.kg/?id=channel-u
 #EXTINF:-1 tvg-id="2" tvg-name="Channel U" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Channel U.png" group-title="新加坡",Channel U
 http://fm1077.serv00.net/Smart.php?id=ChannelU
+#EXTINF:-1 tvg-id="3" tvg-name="Channel U" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Channel U.png" group-title="新加坡",Channel U
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="Channel U(備用)" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Channel U(備用).png" group-title="新加坡",Channel U(備用)
 http://fm1077.serv00.net/Smart.php?id=ChU_mega
 #EXTINF:-1 tvg-id="0" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
-p3p://108.181.32.169:32703/6426077a00093ea7ede6b8b64d6d4c6e
+p3p://108.181.32.169:18118/6426077a00093ea7ede6b8b64d6d4c6e
 #EXTINF:-1 tvg-id="1" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
@@ -1082,10 +1086,12 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="NHK World" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NHK World.png" group-title="英国",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="NHK World" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NHK World.png" group-title="英国",NHK World
-http://fm1077.serv00.net/Smart.php?id=nhkworld_japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="NHK World" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NHK World.png" group-title="英国",NHK World
 http://fm1077.serv00.net/Smart.php?id=nhkworld_japan
 #EXTINF:-1 tvg-id="6" tvg-name="NHK World" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NHK World.png" group-title="英国",NHK World
+http://fm1077.serv00.net/Smart.php?id=nhkworld_japan
+#EXTINF:-1 tvg-id="7" tvg-name="NHK World" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NHK World.png" group-title="英国",NHK World
 http://fm1077.serv00.net/Smart.php?id=nhkworld_japan
 #EXTINF:-1 tvg-id="0" tvg-name="NatGeo HD" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NatGeo HD.png" group-title="英国",NatGeo HD
 http://fm1077.serv00.net/Smart.php?id=Natgeo
@@ -1492,32 +1498,34 @@ http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 #EXTINF:-1 tvg-id="0" tvg-name="TLC Asia" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TLC Asia.png" group-title="Documentary",TLC Asia
 http://fm1077.serv00.net/Smart.php?id=tlc_twn
 #EXTINF:-1 tvg-id="0" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
-http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
+P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
 #EXTINF:-1 tvg-id="1" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
 http://se.xvvx.eu.org/ublive.php?id=1360
 #EXTINF:-1 tvg-id="2" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
-http://ku9.fr.to/smt.php?id=foodplanet_twn
+p3p://108.181.32.169:32703/6425252400079076ea72985811e07306
 #EXTINF:-1 tvg-id="3" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
-P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
+http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
 #EXTINF:-1 tvg-id="4" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
 http://ku9.fr.to/smt.php?id=foodplanet_twn
 #EXTINF:-1 tvg-id="5" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
-p3p://108.181.32.169:32703/6425252400079076ea72985811e07306
-#EXTINF:-1 tvg-id="6" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
-P2p://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23
-#EXTINF:-1 tvg-id="7" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
-P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
-#EXTINF:-1 tvg-id="8" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
 http://ku9.fr.to/smt.php?id=foodplanet_twn
+#EXTINF:-1 tvg-id="6" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
+p3p://108.181.32.169:18118/6425252400079076ea72985811e07306
+#EXTINF:-1 tvg-id="7" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
+P2p://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23
+#EXTINF:-1 tvg-id="8" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
+P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
 #EXTINF:-1 tvg-id="9" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
-http://test.zapi.us.kg/?id=food-planet
+http://ku9.fr.to/smt.php?id=foodplanet_twn
 #EXTINF:-1 tvg-id="10" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
-mitv://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0
+http://test.zapi.us.kg/?id=food-planet
 #EXTINF:-1 tvg-id="11" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
-mitv://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23
+mitv://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0
 #EXTINF:-1 tvg-id="12" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
-p3p://108.181.32.169:45270/6425252400079076ea72985811e07306
+mitv://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23
 #EXTINF:-1 tvg-id="13" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
+p3p://108.181.32.169:45270/6425252400079076ea72985811e07306
+#EXTINF:-1 tvg-id="14" tvg-name="美食星球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美食星球.png" group-title="Documentary",美食星球
 http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
 #EXTINF:-1 tvg-id="0" tvg-name="ABC News" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/ABC News.png" group-title="新闻",ABC News
 http://ytb.csscc.cc:2086/live.m3u8?c=12
