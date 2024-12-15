@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-15 17:38:27
+更新时间: 2024-12-16 05:38:26
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
@@ -506,7 +506,6 @@ CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
 CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
 CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
 CGTN,http://223.166.234.19:7777/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN,http://59.173.183.242:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,https://pi.0472.org/tv/fct.php?auth=230918
 CNBC,P2p://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
 CNBC,http://test.zapi.us.kg/?id=cnbc

@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-# 更新时间: 2024-12-15 17:38:27
+# 更新时间: 2024-12-16 05:38:26
 
 #EXTINF:-1 tvg-id="0" tvg-name="TVBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS.png" group-title="台湾",TVBS
 http://125.227.210.55:8188/VideoInput/play.ts
@@ -998,8 +998,6 @@ http://fm1077.serv00.net/Smart.php?id=CGTN
 #EXTINF:-1 tvg-id="37" tvg-name="CGTN" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CGTN.png" group-title="英国",CGTN
 http://223.166.234.19:7777/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="38" tvg-name="CGTN" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CGTN.png" group-title="英国",CGTN
-http://59.173.183.242:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="39" tvg-name="CGTN" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CGTN.png" group-title="英国",CGTN
 https://pi.0472.org/tv/fct.php?auth=230918
 #EXTINF:-1 tvg-id="0" tvg-name="CNBC" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNBC.png" group-title="英国",CNBC
 P2p://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
