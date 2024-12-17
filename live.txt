@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-17 17:41:44
+更新时间: 2024-12-18 05:37:37
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
@@ -388,8 +388,8 @@ Channel U,http://fm1077.serv00.net/Smart.php?id=ChannelU
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 Channel U(備用),http://fm1077.serv00.net/Smart.php?id=ChU_mega
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,P2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,p3p://108.181.32.169:45270/6426077a00093ea7ede6b8b64d6d4c6e
@@ -404,7 +404,6 @@ J2,http://r.jdshipin.com/Nr5jq$LR•IPV4『线路1』
 J2,http://r.jdshipin.com/ndGgS$LR•IPV4『线路2』
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4『线路3』
 J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8$LR•IPV4『线路4』
-J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$订阅源
 J2,P2p://generationnexxxt.com:19806/fd76c6fe901545c5b39543824e25c80b
 J2,http://113.88.66.42:8001/bysid/82
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn
