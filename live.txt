@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-20 17:38:34
+更新时间: 2024-12-21 05:37:26
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
@@ -390,8 +390,8 @@ Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 Channel U(備用),http://fm1077.serv00.net/Smart.php?id=ChU_mega
 CNA,p3p://108.181.32.169:27540/6426077a00093ea7ede6b8b64d6d4c6e
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,P2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,p3p://108.181.32.169:45270/6426077a00093ea7ede6b8b64d6d4c6e
@@ -504,6 +504,7 @@ CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
 CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
 CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
+CGTN,http://223.166.234.19:7777/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,https://pi.0472.org/tv/fct.php?auth=230918
 CNBC,P2p://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
 CNBC,http://test.zapi.us.kg/?id=cnbc
