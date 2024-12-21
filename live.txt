@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-21 05:37:26
+更新时间: 2024-12-21 17:37:21
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
@@ -93,7 +93,7 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst
-八大第一,p3p://108.181.32.169:27540/6425207f00050f7aea60732c51b94fad
+八大第一,p3p://108.181.32.169:24626/6425207f00050f7aea60732c51b94fad
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
@@ -147,8 +147,8 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 好消息2台,mitv://generationnexxxt.com:19806/2662fe0a2d7745c6b6991ecf37f0595d
 好消息2台,mitv://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
 大愛一台,http://fm1077.serv00.net/Smart.php?id=daai_twn
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
@@ -286,8 +286,8 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://fm1077.serv00.net/Smart.php?id=momo1_twn
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
-CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 CN卡通,http://test.zapi.us.kg/?id=cn-cartoon
@@ -388,7 +388,7 @@ Channel U,http://test.zapi.us.kg/?id=channel-u
 Channel U,http://fm1077.serv00.net/Smart.php?id=ChannelU
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 Channel U(備用),http://fm1077.serv00.net/Smart.php?id=ChU_mega
-CNA,p3p://108.181.32.169:27540/6426077a00093ea7ede6b8b64d6d4c6e
+CNA,p3p://108.181.32.169:24626/6426077a00093ea7ede6b8b64d6d4c6e
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -766,12 +766,12 @@ Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 TLC Asia,http://fm1077.serv00.net/Smart.php?id=tlc_twn
-美食星球,p3p://108.181.32.169:28921/6425252400079076ea72985811e07306
-美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
 美食星球,http://se.xvvx.eu.org/ublive.php?id=1360
+美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
 美食星球,p3p://108.181.32.169:27540/6425252400079076ea72985811e07306
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
+美食星球,p3p://108.181.32.169:24626/6425252400079076ea72985811e07306
 美食星球,P2p://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23
 美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
