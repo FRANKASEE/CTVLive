@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-22 05:37:11
+更新时间: 2024-12-22 17:37:20
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
@@ -93,7 +93,7 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst
-八大第一,p3p://108.181.32.169:24626/6425207f00050f7aea60732c51b94fad
+八大第一,p3p://108.181.32.169:14521/6425207f00050f7aea60732c51b94fad
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
@@ -147,8 +147,8 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 好消息2台,mitv://generationnexxxt.com:19806/2662fe0a2d7745c6b6991ecf37f0595d
 好消息2台,mitv://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
 大愛一台,http://fm1077.serv00.net/Smart.php?id=daai_twn
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
@@ -388,7 +388,7 @@ Channel U,http://test.zapi.us.kg/?id=channel-u
 Channel U,http://fm1077.serv00.net/Smart.php?id=ChannelU
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 Channel U(備用),http://fm1077.serv00.net/Smart.php?id=ChU_mega
-CNA,p3p://108.181.32.169:24626/6426077a00093ea7ede6b8b64d6d4c6e
+CNA,p3p://108.181.32.169:14521/6426077a00093ea7ede6b8b64d6d4c6e
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -587,6 +587,13 @@ TLC,http://fm1077.serv00.net/Smart.php?id=Tlc
 TLC,http://fm1077.serv00.net/Smart.php?id=Tlc
 TLC,http://fm1077.serv00.net/Smart.php?id=Tlc
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9550&tk=97475bb89d45
+Thrill,P2p://generationnexxxt.com:19806/66ae12410007b5a3e83ae0a247146741
+Thrill,p3p://108.181.32.169:14521/644a0879000272f67a89b6687af342ae
+Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
+Thrill,https://stream1.freetv.fun/thrill-2.m3u8
+Thrill,https://stream1.freetv.fun/thrill-1.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 Thrill,P2p://generationnexxxt.com:19806/9b9e791106d14b60a3444a17301ade7e
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8
@@ -595,6 +602,8 @@ Thrill,mitv://generationnexxxt.com:19806/9b9e791106d14b60a3444a17301ade7e
 Thrill,http://fm1077.serv00.net/Smart.php?id=Thrill
 Thrill,http://fm1077.serv00.net/Smart.php?id=Thrill
 Thrill,http://fm1077.serv00.net/Smart.php?id=Thrill
+Thrill,https://stream1.freetv.fun/thrill-2.m3u8
+Thrill,p3p://108.181.32.169:46313/644a0879000272f67a89b6687af342ae
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8
 Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9550&tk=97475bb89d45
 Warner TV,http://fm1077.serv00.net/Smart.php?id=WarnerTV
@@ -629,6 +638,7 @@ YTN,P2p://generationnexxxt.com:19806/37e575278e574bc9a9fc598c733de125
 YTN,http://fm1077.serv00.net/Smart.php?id=ytn_korea
 Yonhap News,http://fm1077.serv00.net/Smart.php?id=yonhapnews_korea
 SBS,P2p://generationnexxxt.com:19806/c8f25b3b0185407792640de06e8781df
+TVN,https://stream1.freetv.fun/tvn-3.m3u8
 JTBC,P2p://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 
 日本,#genre#
@@ -765,12 +775,12 @@ Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 TLC Asia,http://fm1077.serv00.net/Smart.php?id=tlc_twn
-美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
-美食星球,http://se.xvvx.eu.org/ublive.php?id=1360
 美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
-美食星球,p3p://108.181.32.169:27540/6425252400079076ea72985811e07306
+美食星球,http://se.xvvx.eu.org/ublive.php?id=1360
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
 美食星球,p3p://108.181.32.169:24626/6425252400079076ea72985811e07306
+美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
+美食星球,p3p://108.181.32.169:14521/6425252400079076ea72985811e07306
 美食星球,P2p://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23
 美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
