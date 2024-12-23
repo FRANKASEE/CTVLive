@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-23 05:37:07
+更新时间: 2024-12-23 17:38:54
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
@@ -93,7 +93,7 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst
-八大第一,p3p://108.181.32.169:14521/6425207f00050f7aea60732c51b94fad
+八大第一,p3p://108.181.32.169:54829/6425207f00050f7aea60732c51b94fad
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
@@ -147,9 +147,9 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 好消息2台,mitv://generationnexxxt.com:19806/2662fe0a2d7745c6b6991ecf37f0595d
 好消息2台,mitv://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
 大愛一台,http://fm1077.serv00.net/Smart.php?id=daai_twn
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 緯來日本台,http://fm1077.serv00.net/Smart.php?id=videolandjapan
@@ -286,8 +286,8 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://fm1077.serv00.net/Smart.php?id=momo1_twn
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012
-CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 CN卡通,http://test.zapi.us.kg/?id=cn-cartoon
@@ -388,7 +388,7 @@ Channel U,http://test.zapi.us.kg/?id=channel-u
 Channel U,http://fm1077.serv00.net/Smart.php?id=ChannelU
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 Channel U(備用),http://fm1077.serv00.net/Smart.php?id=ChU_mega
-CNA,p3p://108.181.32.169:14521/6426077a00093ea7ede6b8b64d6d4c6e
+CNA,p3p://108.181.32.169:54829/6426077a00093ea7ede6b8b64d6d4c6e
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -504,7 +504,6 @@ CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
 CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
 CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
-CGTN,http://223.166.234.19:7777/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,https://pi.0472.org/tv/fct.php?auth=230918
 CNBC,P2p://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
 CNBC,http://test.zapi.us.kg/?id=cnbc
@@ -544,7 +543,6 @@ Hits Movie,http://fm1077.serv00.net/Smart.php?id=Hitsmovie
 Kids TV,http://fm1077.serv00.net/Smart.php?id=KidsTV
 Kids TV,http://fm1077.serv00.net/Smart.php?id=KidsTV
 More4,http://fm1077.serv00.net/Smart.php?id=more4_antik
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,http://fm1077.serv00.net/Smart.php?id=nhkworld_japan
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -590,7 +588,7 @@ TLC,http://fm1077.serv00.net/Smart.php?id=Tlc
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9550&tk=97475bb89d45
 Thrill,P2p://generationnexxxt.com:19806/66ae12410007b5a3e83ae0a247146741
-Thrill,p3p://108.181.32.169:14521/644a0879000272f67a89b6687af342ae
+Thrill,p3p://108.181.32.169:54829/644a0879000272f67a89b6687af342ae
 Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 Thrill,https://stream1.freetv.fun/thrill-2.m3u8
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8
@@ -776,12 +774,12 @@ Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 TLC Asia,http://fm1077.serv00.net/Smart.php?id=tlc_twn
+美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
 美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
 美食星球,http://se.xvvx.eu.org/ublive.php?id=1360
-美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
-美食星球,p3p://108.181.32.169:24626/6425252400079076ea72985811e07306
-美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
 美食星球,p3p://108.181.32.169:14521/6425252400079076ea72985811e07306
+美食星球,p3p://108.181.32.169:54829/6425252400079076ea72985811e07306
+美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
 美食星球,P2p://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23
 美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
