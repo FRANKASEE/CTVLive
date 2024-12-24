@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-# 更新时间: 2024-12-24 17:38:20
+# 更新时间: 2024-12-25 05:37:09
 
 #EXTINF:-1 tvg-id="0" tvg-name="TVBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS.png" group-title="台湾",TVBS
 http://125.227.210.55:8188/VideoInput/play.ts
@@ -774,11 +774,11 @@ p3p://108.181.32.169:28526/6426077a00093ea7ede6b8b64d6d4c6e
 #EXTINF:-1 tvg-id="1" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
 P2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
 #EXTINF:-1 tvg-id="6" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
@@ -1176,28 +1176,30 @@ https://stream1.freetv.fun/thrill-1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
-P2p://generationnexxxt.com:19806/9b9e791106d14b60a3444a17301ade7e
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1834&tk=7877e7cc41c7
 #EXTINF:-1 tvg-id="9" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+P2p://generationnexxxt.com:19806/9b9e791106d14b60a3444a17301ade7e
 #EXTINF:-1 tvg-id="10" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
-https://stream1.freetv.fun/thrill-1.m3u8
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
-mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
+https://stream1.freetv.fun/thrill-1.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
-mitv://generationnexxxt.com:19806/9b9e791106d14b60a3444a17301ade7e
+mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 #EXTINF:-1 tvg-id="13" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
-http://fm1077.serv00.net/Smart.php?id=Thrill
+mitv://generationnexxxt.com:19806/9b9e791106d14b60a3444a17301ade7e
 #EXTINF:-1 tvg-id="14" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
 http://fm1077.serv00.net/Smart.php?id=Thrill
 #EXTINF:-1 tvg-id="15" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
 http://fm1077.serv00.net/Smart.php?id=Thrill
 #EXTINF:-1 tvg-id="16" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
-https://stream1.freetv.fun/thrill-2.m3u8
+http://fm1077.serv00.net/Smart.php?id=Thrill
 #EXTINF:-1 tvg-id="17" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
-p3p://108.181.32.169:46313/644a0879000272f67a89b6687af342ae
+https://stream1.freetv.fun/thrill-2.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
-https://stream1.freetv.fun/thrill-1.m3u8
+p3p://108.181.32.169:46313/644a0879000272f67a89b6687af342ae
 #EXTINF:-1 tvg-id="19" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
+https://stream1.freetv.fun/thrill-1.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="Thrill" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Thrill.png" group-title="英国",Thrill
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9550&tk=97475bb89d45
 #EXTINF:-1 tvg-id="0" tvg-name="Warner TV" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Warner TV.png" group-title="英国",Warner TV
 http://fm1077.serv00.net/Smart.php?id=WarnerTV
