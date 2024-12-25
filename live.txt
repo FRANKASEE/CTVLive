@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-12-25 05:37:09
+更新时间: 2024-12-25 17:38:01
 
 台湾,#genre#
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
@@ -148,8 +148,8 @@ TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 好消息2台,mitv://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
 大愛一台,http://fm1077.serv00.net/Smart.php?id=daai_twn
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 緯來日本台,http://fm1077.serv00.net/Smart.php?id=videolandjapan
@@ -545,6 +545,7 @@ Hits Movie,http://fm1077.serv00.net/Smart.php?id=Hitsmovie
 Kids TV,http://fm1077.serv00.net/Smart.php?id=KidsTV
 Kids TV,http://fm1077.serv00.net/Smart.php?id=KidsTV
 More4,http://fm1077.serv00.net/Smart.php?id=more4_antik
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,http://fm1077.serv00.net/Smart.php?id=nhkworld_japan
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -676,6 +677,11 @@ Beinsports HD,http://fm1077.serv00.net/Smart.php?id=Besports
 Champion 5 EPL,http://fm1077.serv00.net/Smart.php?id=Champion5epl
 WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
 WWE,http://fm1077.serv00.net/Smart.php?id=Wwe
+WWE,https://stream1.freetv.fun/wwe-2.ctv
+WWE,https://stream1.freetv.fun/wwe-9.ctv
+WWE,https://stream1.freetv.fun/wwe-1.ctv
+WWE,https://stream1.freetv.fun/wwe-11.ctv
+WWE,https://stream1.freetv.fun/wwe-3.ctv
 Champion 6 EPL,http://fm1077.serv00.net/Smart.php?id=Champion6epl
 Fight Sports,http://fm1077.serv00.net/Smart.php?id=Fs
 Fight Sports,http://fm1077.serv00.net/Smart.php?id=Fs
@@ -778,11 +784,11 @@ Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
 TLC Asia,http://fm1077.serv00.net/Smart.php?id=tlc_twn
 美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
-美食星球,p3p://108.181.32.169:54829/6425252400079076ea72985811e07306
-美食星球,http://se.xvvx.eu.org/ublive.php?id=1360
-美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
-美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
 美食星球,p3p://108.181.32.169:28526/6425252400079076ea72985811e07306
+美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
+美食星球,http://se.xvvx.eu.org/ublive.php?id=1360
+美食星球,p3p://108.181.32.169:28526/6425252400079076ea72985811e07306
+美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
 美食星球,P2p://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23
 美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
 美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn
