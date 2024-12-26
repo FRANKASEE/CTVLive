@@ -2,6 +2,7 @@ ip_version_priority = "ipv4"
 
 source_urls = [
     "https://m3u.hackserver.net/txt/fmml_ipv6.txt",
+    "https://raw.githubusercontent.com/FRANKASEE/IPTV34/refs/heads/main/live.txt",
     "https://m3u.hackserver.net/txt/fmml_dv6.txt",
     "https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u",
     "https://m3u.hackserver.net/txt/y_g.txt",
